@@ -12,12 +12,6 @@ Este repositorio centraliza todos los materiales desarrollados durante el curso 
 
 La estructura está organizada para facilitar la navegación y el acceso a cada sección.
 
----
-
-## 🗂️ Estructura del proyecto
-
-
----
 
 ## 🧩 Unidad 2 — Programación Orientada a Objetos para videojuegos
 
@@ -27,12 +21,5 @@ La estructura está organizada para facilitar la navegación y el acceso a cada 
 - 
 ### 🧾 Videos
 - [Prueba 1: Título](Unidad_1/Pruebas/Prueba_1.pdf)
----
-
-
-
-
-Este proyecto está bajo la licencia [MIT](LICENSE) (puedes cambiarla si lo prefieres).
-
 ---
 
