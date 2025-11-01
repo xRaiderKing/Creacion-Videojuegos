@@ -20,8 +20,8 @@ La estructura está organizada para facilitar la navegación y el acceso a cada 
 - [Tutorial 1: Creación de un mapa](https://docs.google.com/document/d/1Y9NXM09KdF00oU3s31ps57t_fD_9nD4_WJnrGkYcdvg/edit?usp=sharing)
 - [Tutorial 2: Movimientos básicos AWSD](https://docs.google.com/document/d/1PiisnqA-Q8PN_BcQLqwoQOHETI9o5T-fCdDApaqzRDA/edit?usp=sharing)
 - [Tutorial 3: Recolección de frutas](https://docs.google.com/document/d/1D3L2wXB4981vfJi1wfLCplo-gx9hNpFWrdMjTcS3jnk/edit?usp=sharing)
-- [Tutorial 4: Animaciones 2D](https://docs.google.com/document/d/1D3L2wXB4981vfJi1wfLCplo-gx9hNpFWrdMjTcS3jnk/edit?usp=sharing)
+- [Tutorial 4: Animaciones 2D](https://docs.google.com/document/d/1fLWCh8eKx-pGZ8twdtdgTGJ98CzgSJKVgWrUiAjLA18/edit?usp=sharing)
 
 ### 🧾 Videos
 - [Prueba 3: Recolección de frutas](https://drive.google.com/file/d/1q3MTvIa3O2rHlWigy0r16BsmLNBga_Yq/view?usp=sharing)
-- [Prueba 4: Recolección de frutas](https://drive.google.com/file/d/1q3MTvIa3O2rHlWigy0r16BsmLNBga_Yq/view?usp=sharing)
+- [Prueba 4: Animaciones 2D](https://drive.google.com/file/d/15vj2AC25LeDXPZNpzcD9LG8i1eAQDpuZ/view?usp=sharing)
